@@ -34,7 +34,7 @@ export const PRODUCTS: Product[] = [
     variants: ["Black", "Green"],
     category: "Water Tanks",
     emoji: "🛢️",
-    image: "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?auto=format&fit=crop&w=600&h=450&q=80",
+    image: "https://images.unsplash.com/photo-1773414582372-43ed2b1db2e2?auto=format&fit=crop&w=600&h=450&q=80",
   },
   {
     id: "tank-2500",
@@ -46,7 +46,7 @@ export const PRODUCTS: Product[] = [
     variants: ["Black", "Green"],
     category: "Water Tanks",
     emoji: "🛢️",
-    image: "https://images.unsplash.com/photo-1606044466411-7b91e1cdc5a0?auto=format&fit=crop&w=600&h=450&q=80",
+    image: "https://images.unsplash.com/photo-1773171033770-005fb44f42ca?auto=format&fit=crop&w=600&h=450&q=80",
   },
   {
     id: "tank-1000",
@@ -58,7 +58,7 @@ export const PRODUCTS: Product[] = [
     variants: ["Black", "Green"],
     category: "Water Tanks",
     emoji: "🛢️",
-    image: "https://images.unsplash.com/photo-1559825481-12a05cc00344?auto=format&fit=crop&w=600&h=450&q=80",
+    image: "https://images.unsplash.com/photo-1773414582372-43ed2b1db2e2?auto=format&fit=crop&w=600&h=450&q=80",
   },
   {
     id: "rain-28",
@@ -70,7 +70,7 @@ export const PRODUCTS: Product[] = [
     variants: ["200m roll"],
     category: "Rain Pipes",
     emoji: "💧",
-    image: "https://images.unsplash.com/photo-1574943320219-553eb213f72d?auto=format&fit=crop&w=600&h=450&q=80",
+    image: "https://images.unsplash.com/photo-1743742566156-f1745850281a?auto=format&fit=crop&w=600&h=450&q=80",
   },
   {
     id: "rain-32",
@@ -82,7 +82,7 @@ export const PRODUCTS: Product[] = [
     variants: ["200m roll"],
     category: "Rain Pipes",
     emoji: "💧",
-    image: "https://images.unsplash.com/photo-1523348837708-15d4a09cfac2?auto=format&fit=crop&w=600&h=450&q=80",
+    image: "https://images.unsplash.com/photo-1738598665698-7fd7af4b5e0c?auto=format&fit=crop&w=600&h=450&q=80",
   },
   {
     id: "rain-40",
@@ -94,7 +94,7 @@ export const PRODUCTS: Product[] = [
     variants: ["200m roll"],
     category: "Rain Pipes",
     emoji: "💧",
-    image: "https://images.unsplash.com/photo-1416879595882-3373a0480b5b?auto=format&fit=crop&w=600&h=450&q=80",
+    image: "https://images.unsplash.com/photo-1743742566156-f1745850281a?auto=format&fit=crop&w=600&h=450&q=80",
   },
   {
     id: "rain-50",
@@ -106,7 +106,7 @@ export const PRODUCTS: Product[] = [
     variants: ["100m roll"],
     category: "Rain Pipes",
     emoji: "💧",
-    image: "https://images.unsplash.com/photo-1500382017468-9049fed747ef?auto=format&fit=crop&w=600&h=450&q=80",
+    image: "https://images.unsplash.com/photo-1738598665698-7fd7af4b5e0c?auto=format&fit=crop&w=600&h=450&q=80",
   },
   {
     id: "drip-2000",
@@ -118,7 +118,7 @@ export const PRODUCTS: Product[] = [
     variants: ["2000m roll"],
     category: "Drip Lines",
     emoji: "🌱",
-    image: "https://images.unsplash.com/photo-1464226184884-fa280b87c399?auto=format&fit=crop&w=600&h=450&q=80",
+    image: "https://images.unsplash.com/photo-1738598665806-7ecc32c3594c?auto=format&fit=crop&w=600&h=450&q=80",
   },
   {
     id: "drip-1500",
@@ -130,7 +130,7 @@ export const PRODUCTS: Product[] = [
     variants: ["1500m roll"],
     category: "Drip Lines",
     emoji: "🌱",
-    image: "https://images.unsplash.com/photo-1586771107445-d3ca888129ce?auto=format&fit=crop&w=600&h=450&q=80",
+    image: "https://images.unsplash.com/photo-1738598665806-7ecc32c3594c?auto=format&fit=crop&w=600&h=450&q=80",
   },
   {
     id: "solar-panel",
@@ -154,7 +154,7 @@ export const PRODUCTS: Product[] = [
     variants: ["3kW", "5kW", "10kW"],
     category: "Solar",
     emoji: "⚡",
-    image: "https://images.unsplash.com/photo-1473341304170-971dccb5ac1e?auto=format&fit=crop&w=600&h=450&q=80",
+    image: "https://images.unsplash.com/photo-1680355065203-43ad84bb6e69?auto=format&fit=crop&w=600&h=450&q=80",
   },
   {
     id: "solar-package",
@@ -166,7 +166,7 @@ export const PRODUCTS: Product[] = [
     variants: ["Small farm", "Medium farm", "Commercial"],
     category: "Solar",
     emoji: "🔆",
-    image: "https://images.unsplash.com/photo-1508514177221-188b1cf16e9d?auto=format&fit=crop&w=600&h=450&q=80",
+    image: "https://images.unsplash.com/photo-1629726797843-618688139f5a?auto=format&fit=crop&w=600&h=450&q=80",
   },
   {
     id: "hdpe",
@@ -178,7 +178,7 @@ export const PRODUCTS: Product[] = [
     variants: ["20mm", "32mm", "50mm", "75mm", "110mm"],
     category: "Pipes & Fittings",
     emoji: "🔧",
-    image: "https://images.unsplash.com/photo-1599687351724-dfa3d4ff76b3?auto=format&fit=crop&w=600&h=450&q=80",
+    image: "https://images.unsplash.com/photo-1766651897083-62a5379b3d7d?auto=format&fit=crop&w=600&h=450&q=80",
   },
   {
     id: "pump",
@@ -190,7 +190,7 @@ export const PRODUCTS: Product[] = [
     variants: ["0.75HP", "1HP", "1.5HP", "2HP"],
     category: "Pipes & Fittings",
     emoji: "🚰",
-    image: "https://images.unsplash.com/photo-1585771724684-38269d6639fd?auto=format&fit=crop&w=600&h=450&q=80",
+    image: "https://images.unsplash.com/photo-1534641614095-6222aed9bdd6?auto=format&fit=crop&w=600&h=450&q=80",
   },
   {
     id: "fittings",
@@ -202,7 +202,7 @@ export const PRODUCTS: Product[] = [
     variants: ["Mixed pack", "Bulk order"],
     category: "Pipes & Fittings",
     emoji: "🔩",
-    image: "https://images.unsplash.com/photo-1577368577595-23c2e59e5a89?auto=format&fit=crop&w=600&h=450&q=80",
+    image: "https://images.unsplash.com/photo-1759950345204-dae34876d9cb?auto=format&fit=crop&w=600&h=450&q=80",
   },
 ];
 
